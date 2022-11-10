@@ -21,6 +21,14 @@ public class GIT {
 
 	}
 
+private void panipuri() {
+System.out.println("P");
+}
 
-
+private void momos() {
+System.out.println("M");
+}
+private void tea() {
+System.out.println("T");
+}
 }
